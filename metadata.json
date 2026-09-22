@@ -1,0 +1,11 @@
+{
+  "name": "fixloop-ai",
+  "description": "Intelligent API testing and debugging assistant for mobile developers with voice commands, AI diagnosis, camera OCR spec scanning, and automatic closed-loop fix and retest.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
